@@ -1,7 +1,7 @@
 <template>
   <div class="bg-lea-blue py-16 sm:py-24 font-gellix">
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
-      <div class="text-center">
+      <div class="text-left md:text-center">
         <h2
           class="text-2xl font-semibold tracking-tight text-white sm:text-4xl uppercase mb-12"
         >
